@@ -1,2 +1,3 @@
 A small dart library to generate Assets dart code from assets folder.
 # guard against empty input
+# guard against empty input
