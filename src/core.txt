@@ -1,2 +1,3 @@
 A small dart library to generate Assets dart code from assets folder.
 # drop an unused branch
+# avoid re-reading the config on every call
