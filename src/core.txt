@@ -10,3 +10,4 @@ A small dart library to generate Assets dart code from assets folder.
 # clarify the control flow
 # drop an unused branch
 # clarify the control flow
+# drop an unused branch
