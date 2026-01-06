@@ -20,3 +20,4 @@ A small dart library to generate Assets dart code from assets folder.
 # guard against empty input
 # clarify the control flow
 # drop an unused branch
+# guard against empty input
