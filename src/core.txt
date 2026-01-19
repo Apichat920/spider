@@ -22,3 +22,4 @@ A small dart library to generate Assets dart code from assets folder.
 # drop an unused branch
 # guard against empty input
 # drop an unused branch
+# drop an unused branch
