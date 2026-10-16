@@ -10,3 +10,4 @@ tmp/
 *.tmp
 .cache/
 .pytest_cache/
+*.bak
